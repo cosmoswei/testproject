@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVC结构事件/MVC结构事件.iml" filepath="$PROJECT_DIR$/MVC结构事件/MVC结构事件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet测试/Servlet测试.iml" filepath="$PROJECT_DIR$/Servlet测试/Servlet测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射测试/反射测试.iml" filepath="$PROJECT_DIR$/反射测试/反射测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/处理事件1/处理事件1.iml" filepath="$PROJECT_DIR$/处理事件1/处理事件1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/处理事件2/处理事件2.iml" filepath="$PROJECT_DIR$/处理事件2/处理事件2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/处理事件3/处理事件3.iml" filepath="$PROJECT_DIR$/处理事件3/处理事件3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/处理事件4/处理事件4.iml" filepath="$PROJECT_DIR$/处理事件4/处理事件4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/处理事件5/处理事件5.iml" filepath="$PROJECT_DIR$/处理事件5/处理事件5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/学习测试项目.iml" filepath="$PROJECT_DIR$/.idea/学习测试项目.iml" />
+      <module fileurl="file://$PROJECT_DIR$/对话框1/对话框1.iml" filepath="$PROJECT_DIR$/对话框1/对话框1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/布局测试1/布局测试1.iml" filepath="$PROJECT_DIR$/布局测试1/布局测试1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/布局测试2/布局测试2.iml" filepath="$PROJECT_DIR$/布局测试2/布局测试2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据库测试/数据库测试.iml" filepath="$PROJECT_DIR$/数据库测试/数据库测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据库测试1/数据库测试1.iml" filepath="$PROJECT_DIR$/数据库测试1/数据库测试1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/文件对话框/文件对话框.iml" filepath="$PROJECT_DIR$/文件对话框/文件对话框.iml" />
+      <module fileurl="file://$PROJECT_DIR$/树组件/树组件.iml" filepath="$PROJECT_DIR$/树组件/树组件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/消息对话框/消息对话框.iml" filepath="$PROJECT_DIR$/消息对话框/消息对话框.iml" />
+      <module fileurl="file://$PROJECT_DIR$/线程测试/线程测试.iml" filepath="$PROJECT_DIR$/线程测试/线程测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/联网测试/联网测试.iml" filepath="$PROJECT_DIR$/联网测试/联网测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/表格组件/表格组件.iml" filepath="$PROJECT_DIR$/表格组件/表格组件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/输入对话框/输入对话框.iml" filepath="$PROJECT_DIR$/输入对话框/输入对话框.iml" />
+      <module fileurl="file://$PROJECT_DIR$/输入对话框2/输入对话框2.iml" filepath="$PROJECT_DIR$/输入对话框2/输入对话框2.iml" />
+    </modules>
+  </component>
+</project>
